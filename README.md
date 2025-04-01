@@ -49,6 +49,6 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 ## Build
-cd "C:\Program Files\Java\jdk-21\bin"
-keytool -genkeypair -v -storetype PKCS12 -keystore my-release-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
-eas init --id 5c7ed77d-7e4e-4b71-b040-14b9e8315758 
+- cd "C:\Program Files\Java\jdk-21\bin"
+- keytool -genkeypair -v -storetype PKCS12 -keystore my-release-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
+- eas init --id 5c7ed77d-7e4e-4b71-b040-14b9e8315758 
